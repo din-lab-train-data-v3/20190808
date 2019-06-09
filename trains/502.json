@@ -1,0 +1,1 @@
+{"train_no": "502", "has_breastfeeding_rooms": true, "carries_packages": false, "has_dining_rooms": false, "is_accessible": true, "has_bike_stands": false, "train_class": "1111", "stops": [{"station": "1040", "departs_at": "07:49", "arrives_at": "07:36"}, {"station": "1000", "departs_at": "08:09", "arrives_at": "08:07"}]}
